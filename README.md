@@ -24,6 +24,6 @@ A feature-rich and interactive quiz application designed for learning and entert
    ```bash  
    git clone https://github.com/CodingManiac11/quiz_app.git
 Usage
-Open your browser and navigate to http://localhost:3000 (or specified port).
+Open your browser and navigate to  http://localhost:5173/ (or specified port).
 Select a category and difficulty to start the quiz.
 Answer questions, view your score, and analyze your performance summary.
